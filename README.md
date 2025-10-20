@@ -99,8 +99,6 @@ npm run deploy:dev
 
 ### Demo Video
 
-[3-minute demo video showcasing end-to-end incident response]
-
 ## 💰 Cost Optimization
 
 - **40-52% cost reduction** vs traditional approaches
@@ -136,42 +134,3 @@ npm run deploy:dev
 - [API Documentation](docs/architecture/api-documentation.md)
 - [Deployment Guide](docs/architecture/deployment-guide.md)
 - [Demo Script](docs/demo/demo-script.md)
-
-## 🏆 Hackathon Submission
-
-### Deliverables
-
-- ✅ **Public Repository**: Complete source code and documentation
-- ✅ **Architecture Diagrams**: Professional system diagrams
-- ✅ **Working Demo**: Deployed and functional system
-- ✅ **Demo Video**: 3-minute presentation
-- ✅ **Cost Analysis**: Detailed cost optimization report
-
-### Innovation Highlights
-
-- **Hybrid Knowledge Base**: Amazon Q + S3 vector search
-- **Confidence-Based Execution**: Safe autonomous operations
-- **Multi-Modal Remediation**: SSM + Lambda + Infrastructure as Code
-- **Real-Time Learning**: Historical incident analysis
-
-## 🤝 Contributing
-
-This is a hackathon submission project. For questions or collaboration:
-
-- Create issues for bugs or feature requests
-- Submit pull requests for improvements
-- Follow the existing code style and testing patterns
-
-## 📄 License
-
-MIT License - see [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- AWS AI Agent Global Hackathon organizers
-- Amazon Bedrock and AgentCore teams
-- Open source community for tools and libraries
-
----
-
-**Built with ❤️ for the AWS AI Agent Global Hackathon**
